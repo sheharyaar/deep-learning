@@ -1,5 +1,6 @@
 # TODO
 
+## Week 1
 - [ ] Implement a perceptron in C/CUDA
 - [ ] Implement one-layer perceptron in C/CUDA
 - [ ] Implement multi-layer pereceptron
